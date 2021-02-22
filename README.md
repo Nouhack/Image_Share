@@ -36,6 +36,17 @@ First, run :
 ```
 npm install # to install all dependencies
 ```
+## Set up firebase : 
+
+create an app and enable those services:
+
+- authentication
+- real time database
+- storage 
+
+Copy your app config and past it in ``` firebaseConf.js ``` file
+
+
 
 then, Starting the development server :
 
